@@ -1,6 +1,6 @@
 # OpenCore EFI for Intel Hackintosh (macOS 10.13 - 13.0)
 
-![alt text](https://github.com/gabrielmaialva33/efi-opencore-z690p/blob/master/.github/images/img.png?raw=true)
+![alt text](https://raw.githubusercontent.com/gabrielmaialva33/efi-opencore-z690p/main/.github/images/img.png)
 
 ## Specification
 
