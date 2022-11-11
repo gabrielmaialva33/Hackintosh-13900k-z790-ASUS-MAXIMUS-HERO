@@ -149,7 +149,13 @@
 	<key>DeviceProperties</key>
 	<dict>
 		<key>Add</key>
-		<dict/>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>disable-gpu</key>
+				<true/>
+			</dict>
+		</dict>
 		<key>Delete</key>
 		<dict/>
 	</dict>
