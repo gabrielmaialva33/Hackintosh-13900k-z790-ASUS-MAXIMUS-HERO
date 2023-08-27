@@ -1,20 +1,22 @@
-# OpenCore EFI for Intel Hackintosh (macOS 10.13 - 13.0)
+# OpenCore EFI for Intel Hackintosh (macOS 10.13 - 13.5)
 
 ![alt text](https://raw.githubusercontent.com/gabrielmaialva33/efi-opencore-z690p/main/.github/images/img.png)
 
 ## Specification
 
-| **Component**   | **Model**                       |
-| --------------- |---------------------------------|
-| CPU             | Intel i9-12900K (24) @ 3.20GHz  |
-| Motherboard     | ASUS Z690-P                     |
-| RAM             | 32GB (2x 16GB) Furry @ 52000MHz |
-| Audio Chipset   | ALC-897                         |
-| GPU             | Radeon RX 570                   |
-| OS Disk (SSDM2) | WD Green 240GB                  |
+| **Component**   | **Model**                            |
+| --------------- |--------------------------------------|
+| CPU             | Intel i9-13900K (24) @ 3.20GHz       |
+| Motherboard     | ROG MAXIMUS Z790 HERO                |
+| RAM             | 32GB (2x 16GB) Furry @ 52000MHz      |
+| Audio Chipset   | ALC4082                              |
+| GPU             | Radeon RX 570 4GB                    |
+| OS Disk (SSDM2) | SSD Kingston NV2 M.2 2280 NVMe PCIe  |
+| WiFi & Bluetooth| Intel AX210 / BCM4350C2              |
+| macOS version   | 13.5.1 (22G90)                       |
 
-**macOS version**: 13.0.0 (22A380)  
-**OpenCore version**: 0.8.6
+**macOS version**: 13.5.1 (22G90)  
+**OpenCore version**: 0.9.5
 
 ## Credits
 
@@ -33,7 +35,8 @@
 - Catalina (10.15.x)
 - Big Sur (10.16/11.4)
 - Monterey (12.1)
-- Ventura (13.0)
+- Ventura (13.5)
+- Sonoma (14.0)
 
 ## How to use
 
