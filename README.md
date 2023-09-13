@@ -4,19 +4,19 @@
 
 ## Specification
 
-| **Component**   | **Model**                            |
-| --------------- |--------------------------------------|
-| CPU             | Intel i9-13900K (24) @ 3.20GHz       |
-| Motherboard     | ROG MAXIMUS Z790 HERO                |
-| RAM             | 32GB (2x 16GB) Furry @ 52000MHz      |
-| Audio Chipset   | ALC4082                              |
-| GPU             | Radeon RX 570 4GB                    |
-| OS Disk (SSDM2) | SSD Kingston NV2 M.2 2280 NVMe PCIe  |
-| WiFi & Bluetooth| Intel AX210 / BCM4350C2              |
-| macOS version   | 13.5.1 (22G90)                       |
+| **Component**    | **Model**                           |
+|------------------|-------------------------------------|
+| CPU              | Intel i9-13900K (24) @ 3.20GHz      |
+| Motherboard      | ROG MAXIMUS Z790 HERO               |
+| RAM              | 32GB (2x 16GB) Furry @ 52000MHz     |
+| Audio Chipset    | ALC4082                             |
+| GPU              | Radeon RX 570 4GB                   |
+| OS Disk (SSDM2)  | SSD Kingston NV2 M.2 2280 NVMe PCIe |
+| WiFi & Bluetooth | Intel AX210 / BCM4350C2             |
+| macOS version    | 13.5.1 (22G91) x86_64               |
 
-**macOS version**: 13.5.1 (22G90)  
-**OpenCore version**: 0.9.5
+**macOS version**: 13.5.2 (22G91) x86_64  
+**OpenCore version**: 0.9.6
 
 ## Credits
 
