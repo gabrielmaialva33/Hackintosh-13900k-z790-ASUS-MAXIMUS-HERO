@@ -465,24 +465,6 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>macUSPCIO_I801.kext</string>
-				<key>Comment</key>
-				<string>macUSPCIO_I801.kext</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/macUSPCIO</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
 				<string>NVMeFix.kext</string>
 				<key>Comment</key>
 				<string>NVMeFix.kext</string>
@@ -947,6 +929,8 @@
 				<integer>1</integer>
 				<key>revcpuname</key>
 				<string>13th Gen Intel(R) Core(TM) i9-13900K</string>
+				<key>revpatch</key>
+				<string>cpuname,sbvmm</string>
 				<key>rtc-blacklist</key>
 				<data>
 				</data>
@@ -1023,14 +1007,14 @@
 			<key>AdviseFeatures</key>
 			<true/>
 			<key>MLB</key>
-			<string>C02102501CD00001M</string>
+			<string>C02238130CD0000UE</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>3841</integer>
 			<key>ROM</key>
 			<data>
-			AD7h0fTY
+			lJQmJ3y3
 			</data>
 			<key>SpoofVendor</key>
 			<false/>
@@ -1039,9 +1023,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02F3YY9046M</string>
+			<string>C02JF3YA046M</string>
 			<key>SystemUUID</key>
-			<string>404B2F18-03C7-4D6A-810A-9FFD74F0F911</string>
+			<string>53E60D59-60E6-43A7-97F0-A77F2C7E2457</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
