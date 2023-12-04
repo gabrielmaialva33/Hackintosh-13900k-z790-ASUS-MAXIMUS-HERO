@@ -8,7 +8,7 @@
 |------------------|-----------------------------------------|
 | CPU              | Intel i9-13900K (24) @ 3.20GHz          |
 | Motherboard      | ROG MAXIMUS Z790 HERO                   |
-| RAM              | 32GB (2x 16GB) Kingston FURY @ 52000MHz |
+| RAM              | 32GB (2x 16GB) Kingston FURY @ 5200MHz  |
 | Audio Chipset    | ALC4082                                 |
 | GPU              | Radeon RX 570 4GB                       |
 | OS Disk (SSDM2)  | SSD Kingston NV2 M.2 2280 NVMe PCIe     |
