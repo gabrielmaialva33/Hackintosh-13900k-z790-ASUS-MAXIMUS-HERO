@@ -37,7 +37,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmaialva33/efi-opencore-z690p/main/.github/images/img4.png" alt="macOS Screenshot" width="90%">
+  <img src="https://raw.githubusercontent.com/gabrielmaialva33/efi-opencore-z690p/main/.github/images/img5.png" alt="macOS Screenshot" width="90%">
 </p>
 
 ---
