@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>CFBundleExecutable</key>
+    <string>NVDAAL</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.nvdaal.compute</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>NVDAAL</string>
+    <key>CFBundlePackageType</key>
+    <string>KEXT</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>0.1.0</string>
+    <key>IOKitPersonalities</key>
+    <dict>
+        <key>NVDAAL</key>
+        <dict>
+            <key>CFBundleIdentifier</key>
+            <string>com.nvdaal.compute</string>
+            <key>IOClass</key>
+            <string>NVDAAL</string>
+            <key>IOPCIPrimaryMatch</key>
+            <string>0x268410DE</string>
+            <!-- RTX 4090 (AD102) -->
+            <key>IOPCITunnelCompatible</key>
+            <true/>
+            <key>IOPCIPrimaryMatchIfParentIsPCIBridge</key>
+            <true/>
+            <key>IOProbeScore</key>
+            <integer>2000</integer>
+            <key>IOProviderClass</key>
+            <string>IOPCIDevice</string>
+        </dict>
+    </dict>
+    <key>NSHumanReadableCopyright</key>
+    <string>Open Source - Community Project</string>
+    <key>OSBundleLibraries</key>
+    <dict>
+        <key>com.apple.kpi.iokit</key>
+        <string>16.0</string>
+        <key>com.apple.kpi.libkern</key>
+        <string>16.0</string>
+        <key>com.apple.kpi.mach</key>
+        <string>16.0</string>
+        <key>com.apple.iokit.IOPCIFamily</key>
+        <string>2.9</string>
+    </dict>
+    <key>OSBundleRequired</key>
+    <string>Root</string>
+</dict>
+</plist>
