@@ -11,16 +11,24 @@
 </h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenCore-1.0.4-9B59B6?style=for-the-badge&logo=apple&logoColor=white" alt="OpenCore" />
-  <img src="https://img.shields.io/badge/macOS-Sequoia_15.7.3-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Intel-i9--13900K-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="CPU" />
+  <a href="https://github.com/acidanthera/OpenCorePkg/releases">
+    <img src="https://img.shields.io/badge/OpenCore-1.0.4-0D92F4?style=for-the-badge&logo=gitbook&logoColor=white" alt="OpenCore" />
+  </a>
+  <a href="https://www.apple.com/macos/sequoia/">
+    <img src="https://img.shields.io/badge/macOS-Sequoia_15.7.3-F05032?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  </a>
+  <a href="https://www.intel.com/content/www/us/en/products/sku/230496/intel-core-i913900k-processor-36m-cache-up-to-5-80-ghz/specifications.html">
+    <img src="https://img.shields.io/badge/Intel-i9--13900K-00C8FF?style=for-the-badge&logo=intel&logoColor=white" alt="CPU" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SMBIOS-MacPro7,1-E74C3C?style=flat-square" alt="SMBIOS" />
-  <img src="https://img.shields.io/badge/Radeon-RX_570-ED1C24?style=flat-square&logo=amd&logoColor=white" alt="GPU" />
-  <img src="https://img.shields.io/badge/RTX_4090-Compute-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" />
-  <img src="https://img.shields.io/github/license/gabrielmaialva33/Hackintosh-13900k-z790-ASUS-MAXIMUS-HERO?style=flat-square&color=blue" alt="License" />
+  <img src="https://img.shields.io/badge/SMBIOS-MacPro7,1-BA68C8?style=for-the-badge&logo=apple&logoColor=white" alt="SMBIOS" />
+  <img src="https://img.shields.io/badge/AMD-RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="GPU" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+  <a href="https://github.com/gabrielmaialva33/Hackintosh-13900k-z790-ASUS-MAXIMUS-HERO/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/gabrielmaialva33/Hackintosh-13900k-z790-ASUS-MAXIMUS-HERO?style=for-the-badge&color=5D6D7E&logo=opensourceinitiative&logoColor=white" alt="License" />
+  </a>
 </p>
 
 <br>
